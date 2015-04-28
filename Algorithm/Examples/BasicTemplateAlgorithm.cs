@@ -21,6 +21,8 @@ namespace QuantConnect.Algorithm.Examples
     /// </summary>
     public class BasicTemplateAlgorithm : QCAlgorithm
     {
+        // small changes
+
         /// <summary>
         /// Initialise the data and resolution required, as well as the cash and start-end dates for your algorithm. All algorithms must initialized.
         /// </summary>
